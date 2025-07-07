@@ -18,5 +18,3 @@ Convert your Figma UI coordinates (Left, Top, Width, Height) into Unity's anchor
 ## 🧠 Made for Unity Devs working with Figma!
 
 ---
-
-Let me know if you'd like help preparing the GitHub repo as well — I can generate a full `README.md`, `EditorWindow` setup, and `.unitypackage` export instructions for you 🔨🤖🔧
